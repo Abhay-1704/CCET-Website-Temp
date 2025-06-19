@@ -33,7 +33,7 @@ const Header = () => {
             />
           </div>
 
-          {/* Divider (with reduced spacing below) */}
+          {/* Divider */}
           <div className="w-full max-w-[1400px] pt-1 pb-2">
             <div className="w-full border-t-2 border-white" />
           </div>
